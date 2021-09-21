@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ウサギ小屋</title>
-    <link>http://example.org/</link>
+    <link>https://kyu099.github.io/usagigoya/</link>
     <description>Recent content on ウサギ小屋</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language><atom:link href="https://kyu099.github.io/usagigoya/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
