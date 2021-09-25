@@ -17,7 +17,13 @@ header
     padding-bottom : 1%;
 }
 
-.headerimg 
+.resizeimage
+{
+    width : 100%;
+    max-width : 900px;
+}
+
+img
 {
     width : 100%;
     max-width : 900px;
