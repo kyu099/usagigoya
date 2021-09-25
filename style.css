@@ -1,6 +1,6 @@
 *
 {
-    margin  : 0 ;
+    margin  : 0;
     padding : 0;
 }
 
@@ -11,20 +11,21 @@ body
 
 header
 {
-    background-color : #f5f5f5;
+    background-color : #fff;
     border-bottom : 1px solid #000;
     padding-top : 1%;
     padding-bottom : 1%;
-    margin-left: auto;
-    margin-right : auto;
 }
 
-.headerimg
+.headerimg 
 {
     width : 100%;
     max-width : 900px;
-    margin-left: auto;
-    margin-right : auto;
+}
+
+.img_c
+{
+    text-align : center;
 }
 
 .contents
