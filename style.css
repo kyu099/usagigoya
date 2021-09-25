@@ -15,12 +15,16 @@ header
     border-bottom : 1px solid #000;
     padding-top : 1%;
     padding-bottom : 1%;
+    margin-left: auto;
+    margin-right : auto;
 }
 
 .headerimg
 {
     width : 100%;
     max-width : 900px;
+    margin-left: auto;
+    margin-right : auto;
 }
 
 .contents
