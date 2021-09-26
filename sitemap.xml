@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kyu099.github.io/usagigoya/diary/20210906trip/</loc>
+    <lastmod>2021-09-25T19:14:47+09:00</lastmod>
+  </url><url>
+    <loc>https://kyu099.github.io/usagigoya/diary/</loc>
+    <lastmod>2021-09-25T19:14:47+09:00</lastmod>
+  </url><url>
+    <loc>https://kyu099.github.io/usagigoya/</loc>
+    <lastmod>2021-09-25T19:14:47+09:00</lastmod>
+  </url><url>
     <loc>https://kyu099.github.io/usagigoya/categories/</loc>
   </url><url>
     <loc>https://kyu099.github.io/usagigoya/tags/</loc>
-  </url><url>
-    <loc>https://kyu099.github.io/usagigoya/</loc>
   </url>
 </urlset>
