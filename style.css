@@ -95,3 +95,9 @@ td
     padding : 3% 5%;
     border-radius: 10px;
 }
+
+.captions_text
+{
+    text-align : center;
+    color: #cccccc;
+}
