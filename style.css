@@ -34,6 +34,12 @@ img
     text-align : center;
 }
 
+.captions_text
+{
+    text-align : center;
+}
+
+
 .contents
 {
     width : 100%;
@@ -94,9 +100,4 @@ td
     margin-top : 10px;
     padding : 3% 5%;
     border-radius: 10px;
-}
-
-.captions_text
-{
-    text-align : center;
 }
