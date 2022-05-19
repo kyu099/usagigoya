@@ -6,7 +6,44 @@
     <description>Recent content on ウサギ小屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Sep 2021 19:14:47 +0900</lastBuildDate><atom:link href="https://kyu099.github.io/usagigoya/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 May 2022 03:46:25 +0900</lastBuildDate><atom:link href="https://kyu099.github.io/usagigoya/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>macrocosmos</title>
+      <link>https://kyu099.github.io/usagigoya/memo/macrocosmos/</link>
+      <pubDate>Fri, 20 May 2022 03:46:25 +0900</pubDate>
+      
+      <guid>https://kyu099.github.io/usagigoya/memo/macrocosmos/</guid>
+      <description>66小節目 タイミングよく全押しでAJ通過できた。</description>
+    </item>
+    
+    <item>
+      <title>玩具狂奏曲 -終焉-</title>
+      <link>https://kyu099.github.io/usagigoya/memo/01/</link>
+      <pubDate>Thu, 19 May 2022 11:09:25 +0900</pubDate>
+      
+      <guid>https://kyu099.github.io/usagigoya/memo/01/</guid>
+      <description>概要 SSS達成したのでその時の運指メモです。自分の使った運指とか意識したこと書いておきます。 小節数は譜面保管所参照。
+1~34小節目 割愛
+35~36小節目 上げる手を間違えなければ全押しでいいと思います。 35小節目始めのエアーで左手に持ち替えて、右左左左右右右の順で上げる。
+39~40小節目 普通に押すならこれ。始点ガン見して位置合わせる。ホールドは指１本で押すと抜けることがあるので親指以外の４本で抑えてタップを親指で拾うといいと思います。正直慣れみたいなところある。
+45小節目 ここすごい巻き込むので注意。できれば指押ししたい。
+47~48小節目 ノーツガン見しながら移動。擦る方が取りやすい人もいるらしい。
+50小節目 端で持ち替える。
+52小節目 なんか癖ついてなんか1回もAJ通過できなかった。始点の右手は中央より右から始まってほとんど動かないので左手だけ動かすの意識。
+54小節目 持ち替えた方が取りやすいと思うけど個人差。
+55~70小節目 休憩 ここ左手忙しいので注意。
+71~78小節目 重なってないノーツの直前は全押し非推奨（巻き込むので）。BPM130の16分音符が115ms間隔でattack判定が前後66~99ms（らしい）なので正しい判定より約16ms遅れると巻き込むらしい。
+79~80小節目 前述の理由で指押し推奨。全押し追いつかないなら早J出しながら早入り。 両手トリルの後親指を添えるイメージ。
+83~84小節目 重なってるので手を広げて押しても巻き込まない。
+89小節目 始点以外擦れます。
+91~98小節目 見たまま押す以外ないと思います。気合い。 指細くして擦る。
+99~100小節目 手でかい人用のワザップ。スライドを押さえながら指伸ばして取れるらしい。 漏れは手が小さいので普通にスライド抜けた。手が小さい人は素直に片手トリルしましょう。
+102小節目 擦るより指押しのほうが安定した。手丸めるのを意識するといいと思います。直前のホールドは始点全押し。
+105小節目 2個押して4個擦る。2個の方も擦っていいと思います。4個の方を両手で取ると次の始点届かないので片手で流す。
+106小節目 持ち替えてもいいけど忙しいと思う。鳥許容残ってると焦って早くなりがちなので気持ち遅めでいいと思います。余裕ある人は判定ガン見。スライドの始点でattack出るとヤバいので気を付けて。
+最後に 他の人も書いてるようなことしか書けてなくて役に立ってないかもしれません。ごめんなさい。 漏れはフィールドウォール使って視界狭くして手元ガン見すると伸びました。</description>
+    </item>
+    
     <item>
       <title>18切符で旅行した話</title>
       <link>https://kyu099.github.io/usagigoya/diary/20210906trip/</link>
